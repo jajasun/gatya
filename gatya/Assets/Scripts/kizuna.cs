@@ -36,7 +36,7 @@ public class kizuna : MonoBehaviour {
     // 総出玉
     int totalpay = 0;
     // 差枚
-    int total = 0;
+    //int total = 0;
 
     // 今のコイン
     int nowCoin = 0;
